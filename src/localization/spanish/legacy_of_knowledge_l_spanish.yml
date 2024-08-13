@@ -1,0 +1,21 @@
+﻿l_spanish:
+    legacy_of_knowledge_decision: "Criar um Legado de Conhecimento"
+    legacy_of_knowledge_decision_effect: "Concede 1/3 dos seus [perks|lE] acumulados como presente ao seu próximo sucessor."
+    legacy_of_knowledge_decision_tooltip: "Concede 1/3 dos seus [perks|lE] acumulados como presente ao seu próximo sucessor."
+    legacy_of_knowledge_decision_confirm: "Criar meu legado de conhecimento"
+    legacy_of_knowledge_decision_desc: "Como governante, adquiri vastos conhecimentos e experiência ao longo do meu reinado. Para garantir que minha sabedoria não se perca com a minha morte, vou compilar minhas experiências e ideias em um diário abrangente. Este 'Legado de Conhecimento' servirá como guia para o meu sucessor, permitindo que ele se beneficie das lições que tanto me custaram aprender e continue a liderar nosso reino rumo à prosperidade.\n\n@warning_icon! #aviso Observe que: Criar um Legado de Conhecimento é um ato solene que só pode ser realizado uma vez na vida.#!"
+    
+    legacy_of_knowledge.0001.title: "Escrevendo Meu Legado"
+    legacy_of_knowledge.0001.desc: "Enquanto estou sentado aqui na tranquilidade do meu escritório, com o peso da minha coroa sempre presente, meus pensamentos se voltam para você, [GetPlayer.GetPrimaryTitle.GetHeir.GetShortUIName|V]. Como o tempo passa rápido, e em breve, será você que estará sentado onde estou, carregando os fardos do nosso reino. Ao longo do meu reinado, enfrentei inúmeros desafios e colhi as recompensas dos triunfos, cada momento uma lição em governança e espírito humano.\n\nEstas páginas que agora preencho não são apenas reflexões, mas um guia elaborado para você, meu sucessor. Nelas, depositei toda a sabedoria que adquiri, esperando que iluminem seu caminho através das complexidades da liderança e dos inevitáveis desafios que enfrentará. Minha mais profunda esperança é que estas notas não apenas sobrevivam à minha morte, mas prosperem em suas mãos, capacitando-o a liderar com a mesma dedicação e perspicácia que me guiaram. Que este legado seja um farol para você, [GetPlayer.GetPrimaryTitle.GetHeir.GetShortUIName|V], enquanto navega pelos desafios de governar nossa terra."
+    legacy_of_knowledge.0001.option: "Que meu sucessor se beneficie bem!"
+
+    legacy_of_knowledge.0002.title: "Herança de Conhecimento"
+    legacy_of_knowledge.0002.desc: "Meu amado herdeiro, [GetPlayer.GetFirstName],\n\nEnquanto você assume o papel de liderança, saiba que deixei minha sabedoria e experiências acumuladas na forma desses escritos. Ao longo do meu reinado, enfrentei muitos desafios, aprendi inúmeras lições e descobri as complexidades de governar nosso reino. Espero que esses documentos sirvam como guia e fonte de força para você. Eles contêm o conhecimento que reuni com grande esforço ao longo dos anos, destinado a ajudá-lo em sua jornada e a evitar as armadilhas que encontrei.\n\nMinha esperança mais sincera é que você ache esses escritos úteis e que eles o inspirem a liderar com sabedoria, coragem e compaixão. Que eles o capacitem a continuar nosso legado e trazer prosperidade ao nosso povo. Lembre-se, o caminho de um governante é cheio de provações, mas com a sabedoria contida nessas páginas, você estará bem preparado para enfrentar qualquer desafio que surgir. Liderar com honra, e que nosso reino prospere sob sua orientação."
+    legacy_of_knowledge.0002.option: "Vou honrar seu legado."
+
+    diplomacy_lifestyle_perks: "@skill_diplomacy_icon! Tem 5 ou mais pontos de habilidade em Diplomacia"
+    martial_lifestyle_perks: "@skill_martial_icon! Tem 5 ou mais pontos de habilidade em Militar"
+    stewardship_lifestyle_perks: "@skill_stewardship_icon! Tem 5 ou mais pontos de habilidade em Administração"
+    intrigue_lifestyle_perks: "@skill_intrigue_icon! Tem 5 ou mais pontos de habilidade em Intriga"
+    learning_lifestyle_perks: "@skill_learning_icon! Tem 5 ou mais pontos de habilidade em Aprendizado"
+
